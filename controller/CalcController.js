@@ -81,7 +81,7 @@
                 }
         
             }
-            // TESTE
+            
             getResult() {
                
                 return eval(this._operation.join(""));
